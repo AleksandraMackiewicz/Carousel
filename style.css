@@ -45,6 +45,7 @@ button {
     height: 15vh;
     margin: 1%;
     word-wrap: 10vw;
+    width: 100%;
 }
 
 .carousel_mid {
