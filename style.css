@@ -98,3 +98,6 @@ button {
     
     z-index: 9;
 }
+.slides .mod {
+    flex: 0 0 100%;
+}
